@@ -22,10 +22,27 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 - Identified the core areas: Production, Inventory, Quality, Sales, and Operations.
 - Finalized list of KPIs (e.g., production output, defect rate, material wastage, stock levels).
   
-   2.Collected data from multiple sources:
+2.Collected data from multiple sources:
 - ERP system (production logs, inventory data)
 - Sales database or Excel files
 - Quality control sheets (manual or digital)
 - External sources (like market prices or customer feedback if available)
 - Exported raw data in formats such as CSV, Excel, or connected directly to SQL/Access databases.
 
+🧹 3. Data Cleaning & Preprocessing
+- - Cleaned data using Power Query in Power BI:
+- Removed duplicate rows
+- Handled missing or null values
+- Standardized date formats and measurement units (e.g., kg vs g)
+- Merged multiple tables using keys like Batch ID, Product ID
+- Created calculated columns (e.g., Yield %, Defect Rate)
+
+🔗 4. Data Modeling
+- Defined relationships between tables (one-to-many, many-to-one)
+  Example: One Product ➝ Many Sales
+- Created a Star Schema structure for better performance:
+  Fact Table: Production, Sales, Inventory
+- Dimension Tables: Product, Time, Region, Machine
+- Defined measures using DAX (Data Analysis Expressions):
+  Total Output = SUM(Production[Quantity])
+  Defect Rate = SUM(DefectQty) / SUM(TotalProduced)
