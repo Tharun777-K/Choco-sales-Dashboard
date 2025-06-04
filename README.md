@@ -6,3 +6,7 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 
 ## Dataset Used
 - <a href="https://github.com/Tharun777-K/Choco-sales-Dashboard/blob/main/sample-chocolate-shipments-data-all-Apr-2025.xlsx">Data Set</a>
+
+## Questions(KPI)
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
