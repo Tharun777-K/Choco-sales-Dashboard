@@ -75,6 +75,8 @@ Used visuals such as:
 - Maintained documentation for future enhancements or team handover.
 
 
-## dashboard
+## Dashboard
 ![Dashboard_Image](https://github.com/user-attachments/assets/11298f75-728e-41cd-8eba-974e37383a38)
 
+## ✅ Final Conclusion
+The Power BI dashboard developed for the chocolate factory successfully transformed raw, scattered data into meaningful and actionable insights. By integrating data from production, inventory, sales, and quality control systems, the dashboard enables factory managers and stakeholders to monitor performance in real-time, identify inefficiencies, and make data-driven decisions.
