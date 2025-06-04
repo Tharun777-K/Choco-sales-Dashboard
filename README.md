@@ -21,4 +21,11 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 - Met with stakeholders (factory managers, sales team, quality control, etc.) to gather key metrics they wanted to track.
 - Identified the core areas: Production, Inventory, Quality, Sales, and Operations.
 - Finalized list of KPIs (e.g., production output, defect rate, material wastage, stock levels).
+  
+   2.Collected data from multiple sources:
+- ERP system (production logs, inventory data)
+- Sales database or Excel files
+- Quality control sheets (manual or digital)
+- External sources (like market prices or customer feedback if available)
+- Exported raw data in formats such as CSV, Excel, or connected directly to SQL/Access databases.
 
