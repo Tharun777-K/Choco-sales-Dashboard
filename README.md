@@ -75,4 +75,6 @@ Used visuals such as:
 - Maintained documentation for future enhancements or team handover.
 
 
+## dashboard
+![Dashboard_Image](https://github.com/user-attachments/assets/11298f75-728e-41cd-8eba-974e37383a38)
 
