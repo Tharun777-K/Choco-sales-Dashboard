@@ -22,7 +22,7 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 - Identified the core areas: Production, Inventory, Quality, Sales, and Operations.
 - Finalized list of KPIs (e.g., production output, defect rate, material wastage, stock levels).
   
-2.Collected data from multiple sources:
+📥2.Collected data from multiple sources:
 - ERP system (production logs, inventory data)
 - Sales database or Excel files
 - Quality control sheets (manual or digital)
@@ -48,8 +48,8 @@ This Power BI dashboard was developed to monitor and analyze the key performance
   
   Defect Rate = SUM(DefectQty) / SUM(TotalProduced)
 
-  📊 5. Dashboard Design in Power BI
-- Created multiple report pages:
+📊 5. Dashboard Design in Power BI
+Created multiple report pages:
 
 - Production Overview
 - Quality Control
@@ -63,3 +63,16 @@ Used visuals such as:
 - KPI Cards for key metrics
 - Slicers for filtering by Date, Region, Product Type
 - Applied color themes (e.g., chocolate tones) for aesthetics and consistency.
+
+📤 7. Deployment & Sharing
+- Published the dashboard to Power BI Service
+- Set up scheduled data refresh (daily or weekly)
+- Shared access with stakeholders and collected feedback
+- Made iterative improvements based on user feedback
+
+📈 8. Monitoring & Updates
+- Tracked dashboard usage and updated reports as new data sources or KPIs were introduced.
+- Maintained documentation for future enhancements or team handover.
+
+
+
