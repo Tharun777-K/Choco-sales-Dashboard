@@ -45,4 +45,21 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 - Dimension Tables: Product, Time, Region, Machine
 - Defined measures using DAX (Data Analysis Expressions):
   Total Output = SUM(Production[Quantity])
+  
   Defect Rate = SUM(DefectQty) / SUM(TotalProduced)
+
+  📊 5. Dashboard Design in Power BI
+- Created multiple report pages:
+
+- Production Overview
+- Quality Control
+Inventory & Stock
+- Sales Analysis
+
+Used visuals such as:
+- Bar/Column Charts for trends
+- Pie Charts for product category distribution
+- Line Graphs for performance over time
+- KPI Cards for key metrics
+- Slicers for filtering by Date, Region, Product Type
+- Applied color themes (e.g., chocolate tones) for aesthetics and consistency.
