@@ -15,3 +15,4 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 - What is the profit margin for each chocolate product type?
 - Which regions or distributors are generating the highest/lowest revenue?
 
+- Dashboard Interaction <a href="https://github.com/Tharun777-K/Choco-sales-Dashboard/blob/main/powerBI_demo1.pbix">View Dashboard</a>
