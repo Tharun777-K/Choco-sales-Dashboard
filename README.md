@@ -10,3 +10,8 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 ## Questions(KPI)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
+- List top 10 states contributingto the sales?
+- What are the total sales by product category (e.g., dark, milk, white chocolate)?
+- What is the profit margin for each chocolate product type?
+- Which regions or distributors are generating the highest/lowest revenue?
+
