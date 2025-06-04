@@ -16,3 +16,9 @@ This Power BI dashboard was developed to monitor and analyze the key performance
 - Which regions or distributors are generating the highest/lowest revenue?
 
 - Dashboard Interaction <a href="https://github.com/Tharun777-K/Choco-sales-Dashboard/blob/main/powerBI_demo1.pbix">View Dashboard</a>
+## Project Workflow: Chocolate Factory Power BI Dashboard
+✅ 1. Understanding Business Requirements
+- Met with stakeholders (factory managers, sales team, quality control, etc.) to gather key metrics they wanted to track.
+- Identified the core areas: Production, Inventory, Quality, Sales, and Operations.
+- Finalized list of KPIs (e.g., production output, defect rate, material wastage, stock levels).
+
